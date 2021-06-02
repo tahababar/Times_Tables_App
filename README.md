@@ -1,2 +1,3 @@
 # Times_Tables_App
-An Android Studio Project
+This is an Android Studio project that displays mathematical tables using a seekbar. Use of a listview and an array adapter is implemented.
+
